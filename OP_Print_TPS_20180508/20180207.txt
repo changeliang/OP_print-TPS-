@@ -1,0 +1,15 @@
+由於自2/1開始更改TOP-UP的方式
+從原本設定電流上下限，改為設定固定注射間隔
+TOP-UP mode的 PV名稱也因此改動
+原本用：
+TI-INJ-PROC:TopupHiLowStart
+現在：
+TI-INJ-PROC:TopupFixTimeStart
+
+另外注射週期設定為：
+TI-INJ-PROC:setTopupInterval
+注射倒數時間：
+TI-INJ-PROC:TimeToNextInjSec
+
+
+

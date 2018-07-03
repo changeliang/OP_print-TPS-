@@ -1,0 +1,6 @@
+#Start Recording Time: 2017/11/11 23:10:54
+#End Recording Time: 2017/11/11 23:11:02
+#Note: This file recorded PVs(set values) that were changed during this time.
+#(RF frequency was not recorded in this file)
+#Delimiter: Tab ; Content limit: 1000
+Event Time      	PV_name        	Ori_Value	New_Value 
